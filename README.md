@@ -19,8 +19,8 @@ The game is set to a 1-minute timer, adding a time constraint to increase the le
 ✅ Timer :- A countdown timer indicating the remaining time in the game.<br>
 ✅ Score :- The player's current score, updating with each successful hit.<br>
 
-# Visual Representation 🎥
-Include screenshots or diagrams to illustrate the game interface.
+# Screenshot 📷
+![Screenshot 2024-01-20 194720](https://github.com/Varunyadavgithub/Mind-Bubble-Game/assets/134674472/1c1d8465-d1d5-46af-951a-1e2fa297ee53)
 
 # Controls 🎮
 Mouse Click :- The primary control for hitting bubbles. Clicking on the correct bubble within the hit section registers a hit.<br>
