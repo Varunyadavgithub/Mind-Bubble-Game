@@ -1,4 +1,4 @@
-# Mind-Bubble-Game
+# Mind-Bubble-Game [**🔗Live Link**](https://varunyadavgithub.github.io/Mind-Bubble-Game)
 The Mind Bubble Game is an exciting and interactive web-based game designed for users who enjoy quick-paced challenges.
 The game involves hitting the correct bubble within a changing hit section. Each successful hit scores the player 10 points.
 The game is set to a 1-minute timer, adding a time constraint to increase the level of difficulty and excitement.
